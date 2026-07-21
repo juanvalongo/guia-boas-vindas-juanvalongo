@@ -1,4 +1,4 @@
-Guia de boas-vindas da turma
+**Guia de boas-vindas da turma**
 Sobre o projeto
 Este repositório reúne informações importantes para os participantes da turma.
 

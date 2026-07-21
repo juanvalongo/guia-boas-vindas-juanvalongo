@@ -29,3 +29,9 @@ Este repositório reúne informações importantes para os participantes da turm
 Nome: escreva seu nome.
  
 Objetivo com o curso: escreva como pretende utilizar o GitHub.
+
+## Apresentação pessoal
+ 
+Olá! Meu nome é __________.
+ 
+Estou aprendendo GitHub para __________________________.

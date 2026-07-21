@@ -17,3 +17,9 @@ Este repositório reúne informações importantes para os participantes da turm
 - Recursos úteis
 - Perguntas frequentes
 - Orientações para colaboração
+
+## Recursos úteis
+ 
+- Documentação do GitHub
+- Material da aula
+- Repositórios de exemplo
